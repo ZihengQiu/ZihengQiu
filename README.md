@@ -1,7 +1,20 @@
 ### Hi there 👋
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ZaynQiu&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ZaynQiu&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaynQiu&show_icons=true" />
+</picture>
+<!-- 
 [![ZaynQiu's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=ZaynQiu&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/ZaynQiu/github-readme-stats)
 [![ZaynQiu's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=ZaynQiu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ZaynQiu/github-readme-stats)
-<!-- 
+
 Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, transparent
 -->
 
