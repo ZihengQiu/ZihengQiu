@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZihengQiu&show_icons=true" />
 </picture>
 <!-- 
-[![ZihengQiu's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=ZihengQiu&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/ZihengQiu/github-readme-stats)
+[![ZihengQiu's GitHub stats-dark] (https://github-readme-stats.vercel.app/api?username=ZihengQiu&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/ZihengQiu/github-readme-stats)
 [![ZihengQiu's GitHub stats-light](https://github-readme-stats.vercel.app/api?username=ZihengQiu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ZihengQiu/github-readme-stats)
 
 Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, transparent
